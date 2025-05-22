@@ -1,0 +1,9 @@
+Sebastian Castro Padilla
+
+
+1. ¿Cuáles son los principales desafíos que enfrentan las organizaciones al adoptar Scrum y cómo pueden superarlos?
+Al principio cuesta porque muchos están acostumbrados a trabajar individualmente. Además, si no entienden bien Scrum, lo aplican mal. Se necesita tiempo, capacitación y que todos estén abiertos al cambio.
+
+2. ¿Por qué la transición a Scrum no puede ser completamente top-down o bottom-up?
+Si solo los jefes lo imponen (top-down), los equipos no se sienten parte. Si solo los equipos lo promueven (bottom-up), chocan con las formas en que hacen las cosas. Scrum necesita que todos trabajen juntos y se apoyen mutuamente.
+
