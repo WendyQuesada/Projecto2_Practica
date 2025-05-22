@@ -1,0 +1,5 @@
+3. ¿Qué impacto tiene Scrum en la productividad y los costos de desarrollo en comparación con los enfoques tradicionales?
+Scrum ayuda a entregar más rápido lo que el cliente necesita y mejora la calidad, porque se trabaja por partes y se revisa todo el tiempo. A veces no baja el costo total, pero sí se evita perder tiempo y recursos en cosas inútiles.
+
+4. ¿Cómo afecta Scrum la satisfacción y el compromiso de los empleados dentro de una organización?
+Cuando se aplica bien, las personas se sienten más valoradas porque tienen voz, pueden decidir cosas y ven cómo su trabajo impacta. Eso genera más compromiso y un ambiente de trabajo más sano.
